@@ -1,17 +1,17 @@
 class script(object):
-    START_TXT = """<b><u>🚩 ᴊᴀɪ ꜱʜʀɪ ʀᴀᴍ 🚩</u></b>
+    START_TXT = """<b><u>😌 𝘓𝘰𝘢𝘥𝘪𝘯𝘨 𝘣𝘳𝘶𝘩𝘩 📈</u></b>
 
 <b>ʜᴇʏ {}, {}</b>
 
-<b>🤖 ɪ ᴀᴍ <a href=https://t.me/{}>{}</a>, ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ.</b>
+<b>🤖 ഞാൻ <a href=https://t.me/{}>{}</a>, ഒരു File Searching Bot ആണ്😌</b>
 """
 
 
-    GSTART_TXT = """<b>🚩 ᴊᴀɪ ꜱʜʀɪ ʀᴀᴍ 🚩</b>
+    GSTART_TXT = """<b>💥 𝕃𝕠𝕒𝕕𝕚𝕟𝕘 📈</b>
 
-<b>ʜᴇʏ {},</b>
+<b>𝙷𝚎𝚢 {},</b>
 
-<b>🤖 ɪ ᴀᴍ <a href=https://t.me/{}>{}</a>, ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ.</b>"""
+<b>🤖 𝐍𝐉𝐀𝐍 <a href=https://t.me/{}>{}</a>, ഒരു File Searching Bot ആണ്😌</b>"""
 
     
     HELP_TXT = """<b>
@@ -224,7 +224,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/iP_Update">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/iP_Update">[ iP Update ]</a></b>"""
+    CAPTION = """<b><a href="https://t.me/cyber_punk_me">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/cyber_punk_me">[ iP Update ]</a></b>"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
